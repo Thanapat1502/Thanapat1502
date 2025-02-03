@@ -1,10 +1,11 @@
-## Thanapat1502 👋 ##
+## Thanapat1502 👋 
 
 `Fullstack developer` 
 
 I'm a Full-stack software developer looking for a junior role in a software development agency, recently graduate from full-stack web development bootcamp with a strong foundation in modern web technologies. I am passionate about problem-solving and writing clean, maintainable code. I am now excited to transition from my training into a professional web development role, where I can continue to learn, grow, and contribute to impactful projects.
 
 ---
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -19,7 +20,11 @@ I'm a Full-stack software developer looking for a junior role in a software deve
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="Supabase" width="26px" src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" style="padding-right:10px;" />
 
-## 🚀 My project ###
+
+
+#
+
+## 🚀 My project
 
 ### 1.Home Service
 
