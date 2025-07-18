@@ -29,14 +29,14 @@ I’m passionate about writing clean, maintainable code and always strive to cre
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" style="padding-right:10px;" />
-<img align="left" alt="Expo" width="26px" src="https://img.icons8.com/?size=100&id=IpN1evivrDWO&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Expo" width="26px" src="https://img.icons8.com/?size=100&id=IpN1evivrDWO&format=png&color=FFFFFF" style="padding-right:10px;" />
 <img align="left" alt="NodeJs" width="26px" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="NextJs" width="26px" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="VueJs" width="26px" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="NuxtJs" width="26px" src="https://img.icons8.com/?size=100&id=nvrsJYs7j9Vb&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" style="padding-right:10px;" />
-<img align="left" alt="Supabase" width="26px" src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=FFFFFF" style="padding-right:10px;" />
+<img align="left" alt="Supabase" width="26px" src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" style="padding-right:10px;" />
 
 <br />
 
