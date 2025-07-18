@@ -2,9 +2,24 @@
 
 `Fullstack developer` 
 
-I'm a Full-stack software developer looking for a junior role in a software development agency, recently graduate from full-stack web development bootcamp with a strong foundation in modern web technologies.
+I'm a Full-stack software developer with 1 year of experience, including building mobile apps using Expo (React Native), and a solid foundation in modern web technologies.
 
-Previously, I have done full-stack projects with agile & scrum with a team of 5 developers and finished in 8 weeks. This web application offers house fixing and installing service and can connect users with handymen who are looking for jobs. My primary responsibility is backend server api, authentication, RBAC middleware, ERD, database optimization, and helping my team to fix various bugs. I am passionate about writing clean and maintainable code, and provide my team with a convenient environment when working around my code. 
+Previously, I have worked on full-stack web projects using Agile & Scrum methodology with a team of 5 developers, completing an 8-week project that delivered a real-world web application for house fixing and installing services. The platform connects users with available handymen.
+
+My primary responsibilities included:
+
+- Frontend UI (Expo, NextJS)
+
+- Backend server APIs (Node.js/Express)
+
+- Authentication & RBAC middleware
+
+- ERD design and database optimization
+
+- Collaborating with teammates on debugging and code review
+
+I’m passionate about writing clean, maintainable code and always strive to create a smooth developer experience for my teammates when working with my codebase.
+
 
 ---
 
@@ -51,6 +66,18 @@ A responsive front-end project with keyword search system and category dropdown 
 
 A backend project CRUD api for Quora-like website that user can create, edit, delete question with detail and category, user can select questions by id or category, additionally, user can create answers for each question and like or dislike each question, which will store count in database, and documentation with swagger.
 [Node.js, express, Swagger]
+
+### [6.U Sport Arena]
+A fitness mobile application focus on check-in feature, that include history tracking, class booking, training course system. The application cames with switchable mode for difference user role such as staff mode, trainer mode, and user mode
+- user mode can access check-in, history, personal record, collectable point and cupon system.
+- staff mode can scan user QR for fast check-in and check-out, allow staff to work easily on mobile.
+- trainer mode can scan user QR for course training check-in similar to staff, furthermore, trainer can create training program for each session, either by selecting sheared template or full custom program
+[Expo react native]
+
+###[7.Kids-Onboard](https://www.kids-onboard.com/)
+A comercial website about family-friendly travel service, with stunnig responsive ui and animation and seo score of 100.
+Complete within 3 day
+[NextJs]
 
 #
 
