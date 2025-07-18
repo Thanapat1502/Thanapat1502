@@ -74,7 +74,7 @@ A fitness mobile application focus on check-in feature, that include history tra
 - trainer mode can scan user QR for course training check-in similar to staff, furthermore, trainer can create training program for each session, either by selecting sheared template or full custom program
 [Expo react native]
 
-###[7.Kids-Onboard](https://www.kids-onboard.com/)
+### [7.Kids-Onboard](https://www.kids-onboard.com/)
 A comercial website about family-friendly travel service, with stunnig responsive ui and animation and seo score of 100.
 Complete within 3 day
 [NextJs]
