@@ -36,7 +36,7 @@ I’m passionate about writing clean, maintainable code and always strive to cre
 <img align="left" alt="NuxtJs" width="26px" src="https://img.icons8.com/?size=100&id=nvrsJYs7j9Vb&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" style="padding-right:10px;" />
-<img align="left" alt="Supabase" width="26px" src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Supabase" width="26px" src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=FFFFFF" style="padding-right:10px;" />
 
 <br />
 
