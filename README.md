@@ -67,7 +67,7 @@ A responsive front-end project with keyword search system and category dropdown 
 A backend project CRUD api for Quora-like website that user can create, edit, delete question with detail and category, user can select questions by id or category, additionally, user can create answers for each question and like or dislike each question, which will store count in database, and documentation with swagger.
 [Node.js, express, Swagger]
 
-### [6.Fitness-check-in app.]
+### [6.Fitness-check-in app.](https://github.com/Thanapat1502/fitness-check-in-app)
 A fitness mobile application focus on check-in feature, that include history tracking, class booking, training course system. The application cames with switchable mode for difference user role such as staff mode, trainer mode, and user mode
 - user mode can access check-in, history, personal record, collectable point and cupon system.
 - staff mode can scan user QR for fast check-in and check-out, allow staff to work easily on mobile.
