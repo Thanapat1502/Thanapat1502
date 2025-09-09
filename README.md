@@ -72,12 +72,23 @@ A fitness mobile application focus on check-in feature, that include history tra
 - user mode can access check-in, history, personal record, collectable point and cupon system.
 - staff mode can scan user QR for fast check-in and check-out, allow staff to work easily on mobile.
 - trainer mode can scan user QR for course training check-in similar to staff, furthermore, trainer can create training program for each session, either by selecting sheared template or full custom program
-[Expo react native]
+[Expo framwork, react native]
 
-### [7.Kids-Onboard](https://www.kids-onboard.com/)
+### [7.Kids-Onboard](https://github.com/Thanapat1502/demo-kids-on-board)
 A comercial website about family-friendly travel service, with stunnig responsive ui and animation and seo score of 100.
 Complete within 3 day
 [NextJs]
+
+### [8.Visa-Borderrun](https://github.com/Thanapat1502/demo-mekhong-borderrun)
+A modern and minimal web application designed to simplify the visa border run service process in Chiang Mai.
+The platform is built with a clean UI, smooth user experience, and a powerful admin panel for business management.
+Complete within 7 day
+[NextJS]
+
+### [9.Oil-Company-Web-Profile](https://github.com/Thanapat1502/demo-company-profile-website)
+A modern, professional company profile website built with Next.js and featuring a comprehensive Admin Dashboard for content management. 
+This project demonstrates enterprise-level web development with bilingual support, dynamic content management, and responsive design.
+[NextJS, Supabase]
 
 #
 
