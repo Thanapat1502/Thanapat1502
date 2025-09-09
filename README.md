@@ -90,7 +90,7 @@ A modern, professional company profile website built with Next.js and featuring 
 This project demonstrates enterprise-level web development with bilingual support, dynamic content management, and responsive design.
 [NextJS, Supabase]
 
-### [10.ThemeApp] (https://theme-app-beige.vercel.app/)
+### [10.ThemeApp](https://theme-app-beige.vercel.app/)
 A theme gallery for modern businesses: professional, glassy, or colorful. Each theme features flexible menus, Google Maps, and dynamic color variations
 designed to demonstrate frontend and UI design skills.
 [NextJS]
