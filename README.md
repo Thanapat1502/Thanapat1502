@@ -67,30 +67,36 @@ A responsive front-end project with keyword search system and category dropdown 
 A backend project CRUD api for Quora-like website that user can create, edit, delete question with detail and category, user can select questions by id or category, additionally, user can create answers for each question and like or dislike each question, which will store count in database, and documentation with swagger.
 [Node.js, express, Swagger]
 
-### [6.Fitness check-in app.](https://github.com/Thanapat1502/fitness-check-in-app)
+### [6.SME Employee Check-in App](https://github.com/Thanapat1502/sme_check-in_app)
+An attendance tracking app for small businesses with facial recognition check-in, GPS validation, leave system, and attendance analytics. 
+Built to minimize hardware costs with user-friendly design.
+my main responsibility is signup system & UI development
+[React Native (Expo), NestJS, SQL] 
+
+### [7.Fitness check-in app.](https://github.com/Thanapat1502/fitness-check-in-app)
 A fitness mobile application focus on check-in feature, that include history tracking, class booking, training course system. The application cames with switchable mode for difference user role such as staff mode, trainer mode, and user mode
 - user mode can access check-in, history, personal record, collectable point and cupon system.
 - staff mode can scan user QR for fast check-in and check-out, allow staff to work easily on mobile.
 - trainer mode can scan user QR for course training check-in similar to staff, furthermore, trainer can create training program for each session, either by selecting sheared template or full custom program
 [Expo framwork, react native]
 
-### [7.Kids-Onboard](https://github.com/Thanapat1502/demo-kids-on-board)
+### [8.Kids-Onboard](https://github.com/Thanapat1502/demo-kids-on-board)
 A comercial website about family-friendly travel service, with stunnig responsive ui and animation and seo score of 100.
 Complete within 3 day
 [NextJs]
 
-### [8.Visa Borderrun](https://github.com/Thanapat1502/demo-mekhong-borderrun)
+### [9.Visa Borderrun](https://github.com/Thanapat1502/demo-mekhong-borderrun)
 A modern and minimal web application designed to simplify the visa border run service process in Chiang Mai.
 The platform is built with a clean UI, smooth user experience, and a powerful admin panel for business management.
 Complete within 7 day
 [NextJS]
 
-### [9.Oil Company Profile Web](https://github.com/Thanapat1502/demo-company-profile-website)
+### [10.Oil Company Profile Web](https://github.com/Thanapat1502/demo-company-profile-website)
 A modern, professional company profile website built with Next.js and featuring a comprehensive Admin Dashboard for content management. 
 This project demonstrates enterprise-level web development with bilingual support, dynamic content management, and responsive design.
 [NextJS, Supabase]
 
-### [10.ThemeApp](https://theme-app-beige.vercel.app/)
+### [11.ThemeApp](https://theme-app-beige.vercel.app/)
 A theme gallery for modern businesses: professional, glassy, or colorful. Each theme features flexible menus, Google Maps, and dynamic color variations
 designed to demonstrate frontend and UI design skills.
 [NextJS]
