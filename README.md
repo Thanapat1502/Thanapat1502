@@ -98,7 +98,7 @@ This project demonstrates enterprise-level web development with bilingual suppor
 
 ### [11.ThemeApp](https://theme-app-beige.vercel.app/)
 A theme gallery for modern businesses: professional, glassy, or colorful. Each theme features flexible menus, Google Maps, and dynamic color variations
-designed to demonstrate frontend and UI design skills.
+designed to demonstrate frontend and UI design skills, exclusively for responsive design.
 [NextJS]
 
 ![Thanapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanapat1502&show_icons=true&theme=merko)
